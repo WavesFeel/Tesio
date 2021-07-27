@@ -1,2 +1,2 @@
-# Teslo
+# Teslo project
 Teslo 
